@@ -49,5 +49,5 @@ function setup() {
 
 function draw() {
   scene.BG();
-  scene.Ending();
+  scene.Game();
 }
